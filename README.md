@@ -1,4 +1,4 @@
-# GenAI Developer Resources Index (Numbered 1 to 72)
+# GenAI Developer Resources Index 
 
 ---
 
