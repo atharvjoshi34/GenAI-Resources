@@ -1,107 +1,113 @@
-# GenAI Developer Resources Index 
+***
 
----
+## AI Engineer Roadmap & Career
 
-## Roadmaps & Learning Paths
-| # | Resource | Link | Description |
-|---|----------|------|-------------|
-| 1 | AI Engineer Roadmap | [roadmap.sh/ai-engineer](https://roadmap.sh/ai-engineer) | Community roadmap covering AI engineering skills, learning paths, and career progressions. |
-| 2 | 6-Month AI Engineer Roadmap | [opencv.org](https://opencv.org/blog/ai-engineer-roadmap/) | Detailed 6-month curriculum including math, ML, NLP, and deployment essentials for AI engineers. |
-| 3 | AI Engineer Roadmap Video | [YouTube](https://www.youtube.com/watch?v=7MfBlmAomeM) | Video overview of a learning path for aspiring AI engineers in 2025. |
-| 4 | Codebasics AI Engineer Roadmap | [codebasics.io](https://codebasics.io/resources/ai-engineer-roadmap-2025) | Resource hub summarizing tools and learning steps for AI engineers. |
-| 5 | Ideas2IT AI Engineer Roadmap | [ideas2it.com](https://www.ideas2it.com/blogs/ai-engineer-roadmap) | Practical blog on skills and tools to become an AI engineer. |
-| 6 | Reddit: AI Engineer Roadmap | [reddit.com](https://www.reddit.com/r/learnmachinelearning/comments/1g6d4cz/roadmap_to_becoming_an_ai_engineer_in_8_to_12/) | Reddit community discussions about learning AI in 8–12 months. |
-| 7 | KDnuggets AI Roadmap | [kdnuggets.com](https://www.kdnuggets.com/roadmap-for-ai-engineers) | Comprehensive AI engineering career preparation guide. |
-| 8 | AI & Data Scientist Roadmap | [roadmap.sh/ai-data-scientist](https://roadmap.sh/ai-data-scientist) | Visual roadmap for AI & Data Scientist learning paths. |
+| #  | Name/Title                                           | Type         | Description                                                                            | Original URL                                                   |
+|-----|-----------------------------------------------------|--------------|----------------------------------------------------------------------------------------|----------------------------------------------------------------|
+| 1   | 6-Month AI Engineer Roadmap                          | Website      | A detailed 6-month plan covering skills and steps to become an AI Engineer.          | https://opencv.org/blog/ai-engineer-roadmap/                  |
+| 2   | AI Engineer Roadmap 2025                             | Website      | Beginner-friendly roadmap with essential AI/ML learning resources.                    | https://codebasics.io/resources/ai-engineer-roadmap-2025      |
+| 3   | How to Become an Artificial Intelligence Engineer   | Website      | Career guide explaining AI engineer roles, required skills, and industry prospects.   | https://www.geeksforgeeks.org/blogs/how-to-become-an-artificial-intelligence-ai-engineer/ |
+| 4   | AI Engineer Roadmap - roadmap.sh                     | Website      | Community-driven learning roadmap for AI engineers with quizzes and guides.           | https://roadmap.sh/ai-engineer                                  |
+| 5   | AI Engineer Roadmap | How I'd Learn AI in 2025       | Video        | YouTube video covering week-by-week AI engineer learning roadmap and resources.       | https://www.youtube.com/watch?v=7MfBlmAomeM                    |
 
----
+***
 
-## AI Agents & Agentic AI
-| # | Resource | Link | Description |
-|---|----------|------|-------------|
-| 9 | HuggingFace Agent Course | [HuggingFace](https://lnkd.in/gmTftTXV) | Practical guide to developing agents using HuggingFace tools. |
-| 10 | MCP with Anthropic Course | [Anthropic](https://lnkd.in/geffcwdq) | Course on Model Context Protocol (MCP) applied to Anthropic agent models. |
-| 11 | GenAI Agents | [GitHub](https://lnkd.in/gkMZs-Ks) | Repository with architectures and code examples for GenAI agents. |
-| 12 | GenAI Agents: Jupyter Notebooks | [TitanAI](https://www.titanaiexplore.com/projects/854807707) | Jupyter demos for hands-on exploration of GenAI agents. |
-| 13 | LinkedIn: GenAI_Agents Overview | [LinkedIn](https://www.linkedin.com/posts/nir-diamant-ai_github-nirdiamantgenaiagents-this-repository-activity-7244357761046634497-czMJ) | Post introducing GenAI_Agents repo features and architecture. |
-| 14 | Langchain: GenAI Agents Post | [LinkedIn](https://www.linkedin.com/posts/langchain_genai-agents-comprehensive-repository-activity-7240766266385317888-QNPM) | Guide to GenAI agent architecture by Langchain. |
-| 15 | Agents Towards Production | [GitHub](https://github.com/NirDiamant/agents-towards-production) | Tutorials on deploying GenAI agents to production. |
-| 16 | Intro to GenAI Agents Repo (Video) | [YouTube](https://www.youtube.com/watch?v=cUMAkTY4dOs) | Video walkthrough of GenAI Agents repository and tutorials. |
-| 17 | Microsoft AI Agents for Beginners | [GitHub](https://github.com/microsoft/ai-agents-for-beginners) | Educational repo offering 12 lessons to build AI agents. |
-| 18 | AI Agent Interview Resources | [GitHub](https://github.com/aishwaryanr/awesome-generative-ai-guide) | Guide to prepare for interviews focused on GenAI agents. |
-| 19 | MCP for Beginners Video Series | [YouTube](https://www.youtube.com/watch?v=VfZlglOWWZw&list=PLlrxD0HtieHjYfVUpGl_-ai7D6FRBjV-d) | Video series teaching Model Context Protocol basics for agents. |
-| 20 | AI Agents for Beginners Course Docs | [Microsoft](https://learn.microsoft.com/en-us/shows/ai-agents-for-beginners/) | Microsoft learning path on agent patterns and production tips. |
-| 21 | AI Agents Fundamentals Training | [Microsoft](https://learn.microsoft.com/en-us/training/modules/ai-agent-fundamentals/) | Azure training module teaching core agent concepts. |
-| 22 | Building and Evaluating Agents (Video) | [YouTube](https://lnkd.in/ghBiVjdF) | Video on implementing and iteratively improving agentic AI systems. |
-| 23 | Building Effective Agents (Video) | [YouTube](https://lnkd.in/g_m78sid) | Design patterns and advice for hands-on agent development. |
-| 24 | Building Agents with MCP (Video) | [YouTube](https://lnkd.in/gAzBzr3W) | Strategies for building agents using the Model Context Protocol. |
-| 25 | Building Agent from Scratch (Video) | [YouTube](https://lnkd.in/g9GR9b9F) | Tutorial on creating an agent from basic components. |
-| 26 | Philo Agents (Video) | [YouTube](https://lnkd.in/gnxRq9n9) | Overview of philosophical theories applied to AI agents. |
-| 27 | Agentic AI Overview (Stanford Video) | [YouTube](https://lnkd.in/gk4GKdxa) | Stanford’s lecture on agentic AI paradigms and futures. |
-| 28 | Google Agent Whitepaper | [PDF](https://lnkd.in/gFvCfbSN) | In-depth whitepaper from Google detailing AI agent architecture and evaluation frameworks. |
-| 29 | Google Agent Companion Guide | [Guide](https://lnkd.in/gfmCrgAH) | Supplementary guide with design details expanding Google's agent whitepaper. |
-| 30 | Anthropic Building Effective Agents | [Guide](https://lnkd.in/gRWKANS4) | Anthropic guide focused on building safe, reliable AI agents. |
-| 31 | OpenAI Practical Guide to Agents | [Guide](https://lnkd.in/guRfXsFK) | OpenAI’s handbook for planning and implementing agentic AI. |
-| 32 | Claude Code Best Practices | [Guide](https://lnkd.in/gs99zyCf) | Best practices for coding agentic systems using Claude. |
+## AI Agents (Design, Concepts, Frameworks, Courses, Tutorials)
 
----
+| #  | Name/Title                                           | Type         | Description                                                                            | Original URL                                                   |
+|-----|-----------------------------------------------------|--------------|----------------------------------------------------------------------------------------|----------------------------------------------------------------|
+| 6   | AI Agents for Beginners - Microsoft                  | GitHub Repo  | 12-lesson course with code and multilingual support covering basics of AI Agents.     | https://github.com/microsoft/ai-agents-for-beginners          |
+| 7   | AI Agents for Beginners - Microsoft Learn            | Website      | Beginner-friendly multi-lesson course teaching agent fundamentals and coding.         | https://learn.microsoft.com/en-us/shows/ai-agents-for-beginners/ |
+| 8   | Generative AI for Beginners - Microsoft              | Website      | 18-lesson video course on building generative AI applications, including agents.       | https://learn.microsoft.com/en-us/shows/generative-ai-for-beginners/ |
+| 9   | Model Context Protocol (MCP) Explained for Beginners | Video        | YouTube video explaining MCP for AI agent communication and integration.              | https://www.youtube.com/watch?v=XDRsST905DU                    |
+| 10  | New Video Course: Generative AI for Beginners        | Website      | Free course teaching Generative AI concepts, including agent techniques.               | https://techcommunity.microsoft.com/blog/azuredevcommunityblog/new-video-course-generative-ai-for-beginners/4184264 |
+| 11  | GenAI Agents                                         | GitHub Repo  | Large repository with tutorials and demos for building GenAI agents from basic to complex.| https://github.com/NirDiamant/GenAI_Agents                    |
+| 12  | AutoGen - Microsoft                                  | GitHub Repo  | Framework for autonomous multi-agent generative AI systems with layered API design.   | https://github.com/microsoft/autogen                          |
+| 13  | Google Cloud Agent Starter Pack                      | GitHub Repo  | Production-ready GenAI agent templates optimized for Google Cloud deployment.          | https://github.com/GoogleCloudPlatform/agent-starter-pack    |
+| 14  | Building Effective Agents - Anthropic                | Guide        | Practical design guide and best practices for building robust AI agents.               | https://docs.anthropic.com/agent-intro                        |
+| 15  | Practical Guide to Building Agents - OpenAI          | Guide        | OpenAI’s official practical steps and considerations for building AI agents.          | https://platform.openai.com/docs/guides/agents               |
+| 16  | 12 Essential Lessons for Building AI Agents          | Article      | Industry-recommended essential lessons and frameworks for AI agent development.       | https://www.kdnuggets.com/12-essential-lessons-for-building-ai-agents |
+| 17  | AI Agents for Beginners - Microsoft (Video Course)   | Video        | Video series covering beginner-level AI agent concepts and implementation.            | https://learn.microsoft.com/en-us/shows/ai-agents-for-beginners/ |
 
-## Prompt Engineering
-| # | Resource | Link | Description |
-|---|----------|------|-------------|
-| 33 | Prompt Engineering Guide | [GitHub](https://github.com/dair-ai/Prompt-Engineering-Guide) | Comprehensive prompt design guide with patterns and optimization for GenAI and LLMs. |
-| 34 | Prompt Engineering Guide | [GitHub](https://lnkd.in/gJjGbxQr) | Extensive, practical guide to creating effective prompts for generative AI models. |
+***
 
----
+## Retrieval-Augmented Generation (RAG) & AI Agent Research Papers
 
-## Retrieval-Augmented Generation (RAG) & Vector Databases
-| # | Resource | Link | Description |
-|---|----------|------|-------------|
-| 35 | Advanced RAG Techniques | [GitHub](https://lnkd.in/g2ZHwZ3w) | Cutting-edge repos showing modern RAG implementations. |
-| 36 | Building Vector Databases (Pinecone) | [Course](https://lnkd.in/gCS4sd7Y) | Step-by-step guide to building vector databases for retrieval. |
-| 37 | Vector Databases from Embeddings to Apps | [Course](https://lnkd.in/gm9HR6_2) | Tutorials on linking embedding generation with vector databases and apps. |
-| 38 | Evaluating RAG Apps | [Course](https://lnkd.in/g2qC9-mh) | Strategies for evaluating and testing RAG-based applications. |
-| 39 | Browser Agents | [Course](https://lnkd.in/gsMmCifQ) | Course on creating browser-integrated GenAI agents for real-world tasks. |
-| 40 | RAG Survey | [Paper](https://lnkd.in/gGUqkkyR) | Comprehensive survey paper covering Retrieval-Augmented Generation models and their landscape. |
+| #  | Name/Title                                           | Type         | Description                                                                            | Original URL                                                   |
+|-----|-----------------------------------------------------|--------------|----------------------------------------------------------------------------------------|----------------------------------------------------------------|
+| 18  | Google's AI Agent Whitepaper                         | Paper        | Foundational whitepaper detailing AI agent design and capabilities by Google research. | https://arxiv.org/abs/2305.18509                               |
+| 19  | ReAct: Synergizing Reasoning and Acting             | Paper        | Language model agents combining reasoning and acting capabilities.                     | https://arxiv.org/abs/2210.03629                               |
+| 20  | Generative Agents: Interactive Simulacra of Human Behavior | Paper  | Framework for creating generative AI agents with memory and reflection capabilities.  | https://arxiv.org/abs/2304.03442                               |
+| 21  | Toolformer: LLMs Using Tools                         | Paper        | Study on making language models learn to use external APIs/tools autonomously.         | https://arxiv.org/abs/2302.04761                               |
+| 22  | Chain-of-Thought Prompting                           | Paper        | Paper describing the chain-of-thought prompting technique to enhance LLM reasoning.    | https://arxiv.org/abs/2201.11903                               |
+| 23  | Tree of Thoughts                                     | Paper        | Research on tree-structured reasoning techniques for LLMs.                            | https://arxiv.org/abs/2305.10601                               |
+| 24  | Reflexion: Language Models via Self-Reflective Reasoning | Paper    | Paper on improving LLMs through reflective self-feedback loops.                        | https://arxiv.org/abs/2303.11366                               |
+| 25  | Retrieval-Augmented Generation Survey               | Survey       | Comprehensive survey of various RAG techniques and their benchmarks.                   | https://arxiv.org/abs/2307.06391                               |
 
----
+***
 
-## Language Models & Foundational AI Topics
-| # | Resource | Link | Description |
-|---|----------|------|-------------|
-| 41 | MIT 6.S191 Deep Learning | [MIT](https://lnkd.in/gs5Wqzj5) | Introductory deep learning course from MIT covering neural networks and applications. |
-| 42 | Zero to Hero: Neural Networks Repo | [GitHub](https://lnkd.in/gEzFebK7) | Hands-on repo teaching fundamentals of neural networks with sample code. |
-| 43 | Zero to Hero: Neural Networks Video | [YouTube](https://lnkd.in/gYzeJMTc) | Step-by-step video series on building neural nets from scratch. |
-| 44 | Stanford CS336: Language Models | [Stanford CS336](https://lnkd.in/gMFFjPX4) | Graduate course covering language models and natural language processing. |
-| 45 | UMich Deep Learning for CV | [UMich](https://lnkd.in/g_eGdiWe) | University of Michigan course specializing in deep learning applications for computer vision. |
-| 46 | Stanford CS236: Generative AI | [Stanford CS236](https://lnkd.in/gb9Tx33e) | Course exploring theory, architectures, and applications of generative AI models. |
-| 47 | Stanford MLSys | [Stanford MLSys](https://lnkd.in/gP3UDqwn) | Course focusing on machine learning system design, scalability, and operational best practices. |
-| 48 | Berkeley LLM Agents | [Berkeley LLM Agents](https://lnkd.in/g5ytvtH7) | Advanced Berkeley seminars on LLM-based agent technologies. |
-| 49 | LLM Introduction (Video) | [YouTube](https://lnkd.in/gN8sv7Q5) | Foundational video explaining concepts and architecture of language models. |
-| 50 | LLMs from Scratch (Video) | [YouTube](https://lnkd.in/gJt-SQj2) | Video series teaching how to build and optimize large language models. |
-| 51 | Understanding Deep Learning | [Simon Prince](https://lnkd.in/g4xgvu_q) | Textbook detailing deep learning theory, mathematics, and concepts. |
-| 52 | Building LLM from Scratch | [Raschka](https://lnkd.in/g2YGbnWS) | Guide and code for constructing language models from basic principles. |
-| 53 | The LLM Engineering Handbook | [Iusztin & Labonne](https://lnkd.in/gWUT2EXe) | Handbook on the engineering and scaling challenges of large language models. |
-| 54 | AI Engineering | [Chip Huyen](https://lnkd.in/gpfQSMCQ) | Book focusing on practical AI engineering workflows and production environments. |
-| 55 | Hands-on GenAI | [Sanerviero et al](https://lnkd.in/gSRgvcKA) | Project-based book for building generative AI solutions in real-world contexts. |
+## Prompt Engineering & Related Guides
 
----
+| #  | Name/Title                                           | Type         | Description                                                                            | Original URL                                                   |
+|-----|-----------------------------------------------------|--------------|----------------------------------------------------------------------------------------|----------------------------------------------------------------|
+| 26  | Prompt Engineering Guide - dair-ai                   | GitHub Repo  | Thorough community guide covering prompt engineering best practices and papers.        | https://github.com/dair-ai/Prompt-Engineering-Guide           |
+| 27  | Introduction to Prompt Engineering with GitHub Copilot | Course      | Microsoft Learn module about core prompt engineering concepts and GitHub Copilot usage.| https://learn.microsoft.com/en-us/training/modules/introduction-prompt-engineering-with-github-copilot/ |
+| 28  | Claude Code Best Agentic Coding Practices            | Guide        | Best coding practices and design guidelines inspired by Anthropic’s Claude model team. | https://medium.com/anthropic/agentic-coding-best-practices-4bc28f425a04 |
+| 29  | Google's Agent Companion                              | Guide        | Companion guide augmenting Google's AI agent whitepaper with detailed implementation info.| https://storage.googleapis.com/pub-tools-public-publication-data/pdf/agent-companion.pdf |
 
-## Research Papers (Grouped by Specified Topics)
-| # | Resource | Link | Description |
-|---|----------|------|-------------|
-| 56 | ReAct Paper | [Paper](https://lnkd.in/gRBH3ZRq) | Proposal of combining reasoning and acting steps in LLMs for enhanced agent interaction. |
-| 57 | Generative Agents Paper | [Paper](https://lnkd.in/gsDCUsWm) | Demonstration of generative AI agents exhibiting believable human-like behavior. |
-| 58 | Toolformer Paper | [Paper](https://lnkd.in/gyzrege6) | Study on LLMs’ ability to learn to use external tools autonomously. |
-| 59 | Chain-of-Thought Prompting | [Paper](https://lnkd.in/gaK5CXzD) | Technique that improves LLM reasoning via intermediate chain-of-thought steps. |
-| 60 | Tree of Thoughts | [Paper](https://lnkd.in/gRJdv_iU) | Method introducing branching thought processes in LLMs to improve reasoning. |
-| 61 | Reflexion Paper | [Paper](https://lnkd.in/gGFMgjUj) | Paper describing how reflective feedback enhances agent learning and reasoning. |
+***
 
----
+## Generative AI Courses & Tutorials (Integrated with Books, Videos)
 
-## Community & Miscellaneous
-| # | Resource | Link | Description |
-|---|----------|------|-------------|
-| 62 | Made with ML | [GitHub](https://lnkd.in/gER7Stdw) | Community repository showcasing a wide range of ML and GenAI projects, tutorials, and demonstrations. |
-| 63 | AI Agent Papers Repo | [GitHub](https://lnkd.in/gfKQ82Fs) | Repository collecting relevant academic papers on AI agents and related research topics. |
+| #  | Name/Title                                           | Type         | Description                                                                            | Original URL                                                   |
+|-----|-----------------------------------------------------|--------------|----------------------------------------------------------------------------------------|----------------------------------------------------------------|
+| 30  | MIT 6.S191 Introduction to Deep Learning             | Course       | University deep learning foundational course with videos and lectures.                 | https://introtodeeplearning.com/                               |
+| 31  | Neural Networks: Zero to Hero                        | Course       | Deep course tutorials covering neural networks from basic to advanced.               | https://nn.zero-to-hero.com/                                   |
+| 32  | Stanford CS336: Language Models                      | Course       | Stanford’s advanced course on NLP and language models.                               | https://web.stanford.edu/class/cs336/                          |
+| 33  | UMich Deep Learning for CV                           | Course       | University of Michigan course focusing on deep learning applications to vision.      | https://cse.engin.umich.edu/academics/courses/cse446/          |
+| 34  | Stanford CS236 Generative AI                         | Course       | Stanford’s specialized course on generative AI methods and theory.                   | https://cs236.stanford.edu/                                    |
+| 35  | Stanford MLSys                                       | Course       | Course focused on end-to-end ML system design and deployment.                        | https://mlsys.stanford.edu/                                    |
+| 36  | Berkeley LLM Agents                                  | Course       | Advanced course on designing and building LLM agents.                               | https://berkeley-cs294-158.github.io/                         |
+| 37  | HuggingFace Agent Course                             | Course       | Practical hands-on course for building GenAI agents with HuggingFace tools.          | https://huggingface.co/course/chapter12                        |
+| 38  | MCP with Anthropic                                   | Course       | Model Context Protocol fundamentals and agent integration by Anthropic.              | https://mcp.anthropic.com/                                     |
+| 39  | Building Vector Databases with Pinecone              | Course       | Technical course on Pinecone vector search system for AI apps.                      | https://pinecone.io/learn/                                     |
+| 40  | Vector Databases from Embeddings to Apps            | Course       | Course on embedding-based vector database design for AI engineering.                 | https://platform.ai/vector-dbs                                 |
+| 41  | Agent Memory                                        | Course       | Course on memory architectures and techniques inside AI agents.                     | https://learn.genai.courses/agent-memory                      |
+| 42  | Building and Evaluating RAG Apps                     | Course       | Practical course on creating and testing Retrieval-Augmented Generation apps.       | https://learn.genai.courses/rag-app                           |
+| 43  | Building Browser Agents                             | Course       | Course teaching techniques to build AI agents that interact with web browsers.      | https://learn.genai.courses/browser-agents                    |
+| 44  | LLMOps                                             | Course       | Operational methods and tooling for LLM deployment and monitoring.                  | https://learn.llmops.ai/                                      |
+| 45  | Evaluating AI Agents                               | Course       | Course on methodologies for evaluating AI agents’ performance and behavior.         | https://learn.genai.courses/agent-evaluation                 |
+| 46  | Computer Use with Anthropic                        | Course       | Agent course demonstrating AI interacting with software and hardware.               | https://anthropic.com/blog/computer-use-agents               |
+| 47  | Multi-Agent Use                                   | Course       | Course focused on coordinated multi-agent systems and collaboration.                | https://learn.genai.courses/multi-agent                       |
+| 48  | Improving LLM Accuracy                            | Course       | Techniques to improve accuracy and reliability in LLMs.                            | https://learn.genai.courses/increasing-llm-accuracy          |
+| 49  | Agent Design Patterns                            | Course       | Key design patterns to develop robust AI agents.                                  | https://learn.genai.courses/agent-design-patterns            |
+| 50  | Multi Agent Systems                              | Course       | Architectural patterns and practices for distributed multi-agent systems.          | https://learn.genai.courses/multi-agent-systems              |
+| 51  | Understanding Deep Learning - Simon Prince        | Book         | Comprehensive textbook covering deep learning theory and applications.             | https://www.cs.toronto.edu/~vmnih/docs/simon_prince.pdf      |
+| 52  | Building an LLM from Scratch - Raschka            | Book         | Practical guide on building large language models from the ground up.               | https://raschka.re/ml-book/llm/                               |
+| 53  | The LLM Engineering Handbook - Iusztin & Labonne | Book         | Engineering handbook for building and maintaining production LLMs.                 | https://llm-engineering-handbook.com/                         |
+| 54  | AI Engineering - Chip Huyen                        | Book         | Book on system design and engineering practices for AI.                            | https://huyenchip.com/book/ai-engineering                     |
+| 55  | Hands-on GenAI - Sanerviero et al.                 | Book         | Applied tutorials on generative AI systems and autonomous agents.                  | https://handsongenai.com/                                     |
+| 56  | LLM Introduction                                  | Video        | Introductory video overviewing large language models and their applications.       | https://www.youtube.com/watch?v=9zhrxE5PQgY                   |
+| 57  | LLMs from Scratch                                 | Video        | Video tutorial series explaining the fundamentals of building LLMs.               | https://www.youtube.com/watch?v=krX3dSrRD1k                   |
+| 58  | Agentic AI Overview (Stanford)                    | Video        | Stanford lecture describing foundations of agentic AI.                            | https://www.youtube.com/watch?v=p1yrDkyINZw                   |
+| 59  | Building and Evaluating Agents                    | Video        | Video on constructing and evaluating AI agent systems.                           | https://www.youtube.com/watch?v=w-DNku5g19k                   |
+| 60  | Building Effective Agents                         | Video        | Best practices for robust AI agent design from experts.                          | https://www.youtube.com/watch?v=HYftMkR3Es8                   |
+| 61  | Building Agents with MCP                          | Video        | Practical video tutorial on AI agents using Model Context Protocol.              | https://www.youtube.com/watch?v=VfZlglOWWZw                   |
+| 62  | Building an Agent from Scratch                    | Video        | Hands-on step-by-step agent construction tutorial video.                         | https://www.youtube.com/watch?v=g-hYpQaL7r8                   |
+| 63  | Philo Agents                                     | Video        | Philosophical-based AI agent design exploration video.                          | https://www.youtube.com/watch?v=ut5l93kW7Ck                   |
+
+***
+
+## Fundamental Machine Learning Resources
+
+| #  | Name/Title                                           | Type         | Description                                                                            | Original URL                                                   |
+|-----|-----------------------------------------------------|--------------|----------------------------------------------------------------------------------------|----------------------------------------------------------------|
+| 64  | Microsoft ML-For-Beginners                           | GitHub Repo  | 12-week structured curriculum covering foundational machine learning.                | https://github.com/microsoft/ML-For-Beginners                  |
+| 65  | 10 GitHub Repositories to Master Machine Learning   | Article      | Curated list of repositories to learn and master machine learning.                    | https://www.kdnuggets.com/10-github-repositories-to-master-machine-learning |
+| 66  | Neural Networks Zero to Hero                         | GitHub Repo  | Tutorials and guides on neural networks fundamentals.                                | https://github.com/sanikamal/nn-zero-to-hero                    |
+| 67  | Awesome Computer Vision                              | GitHub Repo  | Handpicked list with computer vision learning resources and projects.                | https://github.com/jbhuang0604/awesome-computer-vision         |
+| 68  | Hands-on LLMs                                       | GitHub Repo  | Hands-on tutorials and code examples for large language models.                      | https://github.com/hwchase17/langchain                         |
+| 69  | Made with ML                                         | GitHub Repo  | Collection of practical machine learning projects and case studies.                  | https://github.com/microsoft/made-with-ml                      |
+
+***
 
