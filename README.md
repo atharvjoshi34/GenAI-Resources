@@ -99,3 +99,12 @@
 | 68  | [Hands-on LLMs GitHub Repo](https://github.com/hwchase17/langchain)                                       | GitHub Repo  | Hands-on tutorials and code examples for large language models.                      |
 | 69  | [Made with ML GitHub Repo](https://github.com/microsoft/made-with-ml)                                         | GitHub Repo  | Collection of practical machine learning projects and case studies.                  |
 
+### Community to follow and good finds
+
+| #  | Name/Title                                           | Type         | Description                                                                            |
+|-----|-----------------------------------------------------|--------------|----------------------------------------------------------------------------------------|
+| 70  | [Rag Community](https://www.reddit.com/r/Rag/)      | Reddit       | Community for discussing the implementation of RAG                                     |
+| 71  | [AI Agents Community](https://www.reddit.com/r/AI_Agents/) | Reddit | Community to get latest info on AI Agents and its implementation |
+|72 |[Lesson learnt after building RAG of 20k+ documents](https://www.reddit.com/r/AI_Agents/comments/1nbrm95/building_rag_systems_at_enterprise_scale_20k_docs/)| Reddit| Reddit read by user on lesson learnt after building a rag system for more than 20k documents |
+|73|[Interview Prep](https://interviewprepz.com)| Website| AI Powered tool to prepare for interview based on the resume|
+
