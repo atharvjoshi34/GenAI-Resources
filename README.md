@@ -67,7 +67,7 @@
 | 41  | [Agent Memory](https://learn.genai.courses/agent-memory)                                        | Course       | Course on memory architectures and techniques inside AI agents.                     |
 | 42  | [Building and Evaluating RAG Apps](https://learn.genai.courses/rag-app)                     | Course       | Practical course on creating and testing Retrieval-Augmented Generation apps.       |
 | 43  | [Building Browser Agents](https://learn.genai.courses/browser-agents)                             | Course       | Course teaching techniques to build AI agents that interact with web browsers.      |
-| 44  | [LLMOps](https://learn.llmops.ai/)                                             | Course       | Operational methods and tooling for LLM deployment and monitoring.                  |
+| 44  | [LLMOps](https://www.deeplearning.ai/short-courses/llmops/)                                             | Course       | Operational methods and tooling for LLM deployment and monitoring.                  |
 | 45  | [Evaluating AI Agents](https://learn.genai.courses/agent-evaluation)                               | Course       | Course on methodologies for evaluating AI agents’ performance and behavior.         |
 | 46  | [Computer Use with Anthropic](https://anthropic.com/blog/computer-use-agents)                        | Course       | Agent course demonstrating AI interacting with software and hardware.               |
 | 47  | [Multi-Agent Use](https://learn.genai.courses/multi-agent)                                   | Course       | Course focused on coordinated multi-agent systems and collaboration.                |
